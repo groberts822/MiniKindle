@@ -6,12 +6,19 @@ Final Design:
 CAD Models:
 
 Schematic:
+
 <img width="635" height="477" alt="image" src="https://github.com/user-attachments/assets/b338aa8b-8704-4c72-ae61-d9d0a0746847" />
+
 PCB: 
+
 <img width="1085" height="456" alt="image" src="https://github.com/user-attachments/assets/87223d3f-5166-4074-81a3-23f5720337d3" />
+
 3D of PCB with all Parts
+
 <img width="625" height="398" alt="image" src="https://github.com/user-attachments/assets/bac792b3-08c5-4e81-aad0-eba02a4d6e0f" />
+
 <img width="718" height="400" alt="image" src="https://github.com/user-attachments/assets/138e2c49-4a3a-46f3-8edc-38ce2907a07b" />
+
 Bill of Materials (also in .csv format)
 Item,	Order Qty,	Actual Amount Needed
 Seeed Studio XIAO ESP32C3,	1,	1
