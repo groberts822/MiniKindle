@@ -2,6 +2,7 @@
 A mini e-reader/kindle!
 ---
 Final Design:
+
 <img width="603" height="284" alt="image" src="https://github.com/user-attachments/assets/7df36c10-7c07-49d1-8cfc-ec645da95ffd" />
 
 <img width="861" height="511" alt="image" src="https://github.com/user-attachments/assets/5cbd8196-4ed4-4864-83cb-c9ea94dec21b" />
