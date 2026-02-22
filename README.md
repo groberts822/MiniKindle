@@ -8,6 +8,7 @@ Final Design:
 <img width="861" height="511" alt="image" src="https://github.com/user-attachments/assets/5cbd8196-4ed4-4864-83cb-c9ea94dec21b" />
 
 CAD Models:
+
 <img width="646" height="646" alt="image" src="https://github.com/user-attachments/assets/330b2cda-53c8-400d-b4d8-f8adcff01492" />
 
 Schematic:
