@@ -39,4 +39,6 @@ ALAMSCN TP4056 Type-C Charger,	1 pack (12pcs),	1
 Mini Micro Slide Switch,	1 pack (20pcs),	1
 
 ------------------------------------------------------
-Why I made this and what I did
+I wanted a reading device which didn't feel like a smartphone. Most modern screens are meant to grab our attention with the backlight and notifications. This project is about the opposite, being a distraction-free and almost "offline" experience. This project uses an E-ink display and the text looks like actuasl paper and doesn't strain the eyes. Plus since the E-ink only uses power when the page changes initially, I can leave a book open for long periods of time without the battery dying. 
+
+The brain of the project is a XIAO ESP32C3. When you flip the physical slide switch the system boots and reads the book files (.txt files) from the MicroSD card. There are 2 tactile buttons which allow you to essentially turn the page. It uses a 2.13-in electronic paper display (EPD) and is crisp in direct sunlight and stays on/displays text even after power is cut. A TP4056 module manages the 1100mAh LiPo battery, which you can charge via USB-C, and the slide switch makes sure the battery doesnt drain when the reader is not in use. 
