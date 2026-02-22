@@ -28,3 +28,5 @@ DAOKI 6mm Tactile Push Buttons,	1 pack (100pcs),	2
 MakerFocus 3.7V 1100mAh LiPo Battery,	1 pack (4pcs),	1
 ALAMSCN TP4056 Type-C Charger,	1 pack (12pcs),	1
 Mini Micro Slide Switch,	1 pack (20pcs),	1
+------------------------------------------------------
+Why I made this and what I did
