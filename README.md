@@ -11,6 +11,7 @@ CAD Models:
 
 
 <img width="646" height="646" alt="image" src="https://github.com/user-attachments/assets/330b2cda-53c8-400d-b4d8-f8adcff01492" />
+
 Note for the CAD design. There are holes to connect the wires from the switch and TP4056 (the pos and neg) to the pins of the ESP32C3, its just hard to get a good picture of those. Also, the battery setup will be soldered to the 5V and GND pins of the microcontroller as the battery pads are covered by the case, and its simply easier to access the 5V pin, which works just fine as it can take the 3.7V down to the 3.3V fine.
 
 Schematic:
