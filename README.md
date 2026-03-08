@@ -30,15 +30,15 @@ PCB:
 
 Bill of Materials (also in .csv format)
 
-Item,	Order Qty,	Actual Amount Needed
-
-Seeed Studio XIAO ESP32C3,	1,	1
-Waveshare 2.13in E-Ink Display HAT,	1,	1
-ANMBEST Micro SD Card Adapter,	1 pack (10pcs),	1
-DAOKI 6mm Tactile Push Buttons,	1 pack (100pcs),	2
-MakerFocus 3.7V 1100mAh LiPo Battery,	1 pack (4pcs),	1
-ALAMSCN TP4056 Type-C Charger,	1 pack (12pcs),	1
-Mini Micro Slide Switch,	1 pack (20pcs),	1
+| Item | Order Qty | Actual Amount Needed | Link |
+|------|-----------|----------------------|------|
+| Seeed Studio XIAO ESP32C3 | 1 | 1 | [Amazon](https://www.amazon.com/seeed-studio-Raspberry-Compatible-MicroPython/dp/B0DRNMN7S1/) |
+| Waveshare 2.13in E-Ink Display HAT | 1 | 1 | [Amazon](https://www.amazon.com/waveshare-2-13inch-HAT-Compatible-Resolution/dp/B071S8HT76/) |
+| ANMBEST Micro SD Card Adapter | 1 pack (10pcs) | 1 | [Amazon](https://www.amazon.com/ANMBEST-Adapter-Interface-Conversion-Arduino/dp/B08CMLG4D6/) |
+| DAOKI 6mm Tactile Push Buttons | 1 pack (100pcs) | 2 | [Amazon](https://www.amazon.com/DAOKI-Miniature-Momentary-Tactile-Quality/dp/B01CGMP9GY/) |
+| MakerFocus 3.7V 1100mAh LiPo Battery | 1 pack (4pcs) | 1 | [Amazon](https://www.amazon.com/1100mAh-Rechargable-Protection-Insulated-Development/dp/B0867KDMY7/) |
+| ALAMSCN TP4056 Type-C Charger | 1 pack (12pcs) | 1 | [Amazon](https://www.amazon.com/ALAMSCN-Lithium-Charging-Protection-Functions/dp/B08F7QSLN7/) |
+| Mini Micro Slide Switch | 1 pack (20pcs) | 1 | [Amazon](https://www.amazon.com/Mini-Micro-Slide-Switch-Breadboard/dp/B0DN69L9SG/) |
 
 ------------------------------------------------------
 I wanted a reading device which didn't feel like a smartphone. Most modern screens are meant to grab our attention with the backlight and notifications. This project is about the opposite, being a distraction-free and almost "offline" experience. This project uses an E-ink display and the text looks like actuasl paper and doesn't strain the eyes. Plus since the E-ink only uses power when the page changes initially, I can leave a book open for long periods of time without the battery dying. 
