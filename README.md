@@ -38,7 +38,7 @@ Bill of Materials (also in .csv format)
 
 | Item | Order Qty | Actual Amount Needed | Link |
 |------|-----------|----------------------|------|
-| Seeed Studio XIAO ESP32C3 | 1 | 1 | [Amazon](https://www.amazon.com/seeed-studio-Raspberry-Compatible-MicroPython/dp/B0DRNMN7S1/) |
+| Seeed Studio XIAO ESP32C3 | 1 | 1 | [Amazon](https://www.amazon.com/Seeed-Studio-XIAO-ESP32C3-Microcontroller/dp/B0B94JZ2YF/ref=sr_1_1_sspa?crid=25832RCF5SI0L&dib=eyJ2IjoiMSJ9.TUcu_JgOx4dykbtNXTKjde7ZwMAO9MNOl8WPl3lLjWA6_lh0zWqhFu8ssi_SoTl5KFVqyTZ9tAgb9PqizaJ32ZJKAd0hEp3TdaoLNJGKB1XUTIDDk0DZsTizZOOhf0xI46QUTnPtJs7RfaKayrCNN0LIqaFG8_6GSIPwPxTEhi2GGw4rubu_2GTfcJsvyHfB2icBKRNOjMpKD_wChiwkaBhNl56pvX0_OdoNT6kPr24N9x2JQELeAxxMpyM7SNXkSLPMREKSRGDVO3RT_nsXaD5XVOyTtIC9oOpkqvegOE4.Z5N7m13gSUHiz2zxnUHAEa4MM69LdYGM9WdJV3czJE8&dib_tag=se&keywords=esp32c3&qid=1773078950&s=electronics&sprefix=esp32c3%2Celectronics%2C210&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
 | Waveshare 2.13in E-Ink Display HAT | 1 | 1 | [Amazon](https://www.amazon.com/waveshare-2-13inch-HAT-Compatible-Resolution/dp/B071S8HT76/) |
 | ANMBEST Micro SD Card Adapter | 1 pack (10pcs) | 1 | [Amazon](https://www.amazon.com/ANMBEST-Adapter-Interface-Conversion-Arduino/dp/B08CMLG4D6/) |
 | DAOKI 6mm Tactile Push Buttons | 1 pack (100pcs) | 2 | [Amazon](https://www.amazon.com/DAOKI-Miniature-Momentary-Tactile-Quality/dp/B01CGMP9GY/) |
