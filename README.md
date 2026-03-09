@@ -18,6 +18,8 @@ Assembly:
 
 <img width="770" height="775" alt="image" src="https://github.com/user-attachments/assets/957d3493-49e9-4e25-a22a-b817fb5aa112" />
 
+Just a note, the eink display will be mounted to the board through the pins for the white connector. It may seem overly complicated, but i've done it for projects before and it's easier than it seems. It will simply be soldered from the pins there to the soldering holes using wires, as there isnt really an easier, compact way to connect it, and I just prefer this method.
+
 Schematic:
 
 <img width="635" height="477" alt="image" src="https://github.com/user-attachments/assets/b338aa8b-8704-4c72-ae61-d9d0a0746847" />
