@@ -3,14 +3,14 @@ A mini e-reader/kindle!
 ---
 Final Design:
 
-<img width="603" height="284" alt="image" src="https://github.com/user-attachments/assets/7df36c10-7c07-49d1-8cfc-ec645da95ffd" />
+<img width="495" height="266" alt="image" src="https://github.com/user-attachments/assets/6e02f8db-231e-4d49-9ac0-7dc80c3b540e" />
 
-<img width="861" height="511" alt="image" src="https://github.com/user-attachments/assets/5cbd8196-4ed4-4864-83cb-c9ea94dec21b" />
+<img width="646" height="460" alt="image" src="https://github.com/user-attachments/assets/80e1fb77-5fef-406f-8994-a6205a52f87a" />
+
 
 CAD Models:
 
-
-<img width="646" height="646" alt="image" src="https://github.com/user-attachments/assets/330b2cda-53c8-400d-b4d8-f8adcff01492" />
+<img width="612" height="653" alt="image" src="https://github.com/user-attachments/assets/ed8f8bbe-d73c-472f-a4ab-481b9b079129" />
 
 Note for the CAD design. There are holes to connect the wires from the switch and TP4056 (the pos and neg) to the pins of the ESP32C3, its just hard to get a good picture of those. Also, the battery setup will be soldered to the 5V and GND pins of the microcontroller as the battery pads are covered by the case, and its simply easier to access the 5V pin, which works just fine as it can take the 3.7V down to the 3.3V fine.
 
@@ -18,7 +18,7 @@ Another note, the case will be assembled by using super glue to secure all 3D pr
 
 Assembly:
 
-<img width="770" height="775" alt="image" src="https://github.com/user-attachments/assets/957d3493-49e9-4e25-a22a-b817fb5aa112" />
+<img width="570" height="617" alt="image" src="https://github.com/user-attachments/assets/27d199ef-dc48-4fe1-9e11-4d4faba6ad25" />
 
 Just a note, the eink display will be mounted to the board through the pins for the white connector. It may seem overly complicated, but i've done it for projects before and it's easier than it seems. It will simply be soldered from the pins there to the soldering holes using wires, as there isnt really an easier, compact way to connect it, and I just prefer this method.
 
