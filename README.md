@@ -11,6 +11,10 @@ Final Build:
 
 <img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/17120759-f531-4005-a001-81ebf305f006" />
 
+Demo:
+
+https://youtube.com/shorts/sy03gHUxKEQ 
+
 CAD Models:
 
 <img width="612" height="653" alt="image" src="https://github.com/user-attachments/assets/ed8f8bbe-d73c-472f-a4ab-481b9b079129" />
