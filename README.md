@@ -7,6 +7,9 @@ Final Design:
 
 <img width="646" height="460" alt="image" src="https://github.com/user-attachments/assets/80e1fb77-5fef-406f-8994-a6205a52f87a" />
 
+Final Build:
+
+<img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/17120759-f531-4005-a001-81ebf305f006" />
 
 CAD Models:
 
